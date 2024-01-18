@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Beihang University, China 2012
+* M.S. in Peking University, China 2025(expected)
 
-Work experience
+Internship experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2023 to Present: Research Intern
+  * Noah's Ark Lab, Huawei
+  * Duties included: 
+  * Supervisor: Wenshuo Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April 2022 to June 2022: Algorithm Intern
+  * JD Retail Group
+  * Department: PanSearch Team
+  * Duties included: Feature Engineering
 
 Publications
 ======
@@ -42,18 +32,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently serve as the Vice president of the Graduate Association of the school.
