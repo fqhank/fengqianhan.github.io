@@ -18,8 +18,8 @@ Internship experience
 ======
 * June 2023 to Present: Research Intern
   * Noah's Ark Lab, Huawei
-  * Duties included: 
-  * Supervisor: Wenshuo Li
+  * Duties included: Weakly-supervised CV Problems Research
+  * Supervisor: [Wenshuo Li](https://scholar.google.com/citations?hl=zh-CN&user=XxaX0hkAAAAJ)
 
 * April 2022 to June 2022: Algorithm Intern
   * JD Retail Group
