@@ -45,6 +45,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
 Service and leadership
 ======
 * Currently serve as the Vice president of the Graduate Association of the school.
