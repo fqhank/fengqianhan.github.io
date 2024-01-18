@@ -13,8 +13,8 @@ Semi-supervised Learning (SSL) reduces the need for extensive annotations in dee
 
 Recommended citation:   
 @inproceedings{feng2024bacon,  
-  title={Deep homography for efficient stereo image compression},  
-  author={Deng, Xin and Yang, Wenzhe and Yang, Ren and Xu, Mai and Liu, Enpeng and Feng, Qianhan and Timofte, Radu},  
+  title={BaCon: Boosting Imbalanced Semi-supervised Learning via Balanced Feature-Level Contrastive Learning},  
+  author={Qianhan Feng, Lujing Xie, Shijie Fang, Tong Lin},  
   booktitle={Thirty-Seventh {AAAI} Conference on Artificial Intelligence, {AAAI} 2024},  
   year={2024}  
 }
