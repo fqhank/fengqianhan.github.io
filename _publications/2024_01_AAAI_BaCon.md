@@ -1,5 +1,5 @@
 ---
-title: "BaCon: Boosting Imbalanced Semi-supervised Learning via Balanced Feature-Level Contrastive Learning"
+title: "[AAAI2024] BaCon: Boosting Imbalanced Semi-supervised Learning via Balanced Feature-Level Contrastive Learning"
 collection: publications
 permalink: /publication/2024_01_AAAI_BaCon
 excerpt: 'Qianhan Feng, Lujing Xie, Shijie Fang, Tong Lin*'
