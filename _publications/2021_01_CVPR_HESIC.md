@@ -1,7 +1,7 @@
 ---
 title: "Deep Homography for Efficient Stereo Image Compression"
 collection: publications
-permalink: /publication/CVPR2021_HESIC
+permalink: /publication/2021_01_CVPR_HESIC
 excerpt: 'Xin Deng, Wenzhe Yang, Ren Yang, Mai Xu*, Enpeng Liu, Qianhan Feng, Radu Timofte'
 date: 2021-06-21
 venue: 'Proceedings of CVPR'
