@@ -1,7 +1,7 @@
 ---
 title: "Deep Homography for Efficient Stereo Image Compression"
 collection: publications
-permalink: -
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '-'
 date: 2021-10-01
 venue: 'Proceedings of CVPR 2021'
