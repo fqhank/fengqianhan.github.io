@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qianhan Feng"
+  name             : "Qianhan Feng 冯千涵"
   avatar           : "profile.png"
-  bio              : "Master Student@Peking University"
-  location         :
+  bio              : "Master Student \n\@Peking University"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=HtigWVwAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
