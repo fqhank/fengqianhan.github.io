@@ -1,7 +1,7 @@
 ---
 title: "Deep Homography for Efficient Stereo Image Compression"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/CVPR2021_HESIC
 excerpt: 'Xin Deng, Wenzhe Yang, Ren Yang, Mai Xu*, Enpeng Liu, Qianhan Feng, Radu Timofte'
 date: 2021-06-21
 venue: 'Proceedings of CVPR'
@@ -15,9 +15,9 @@ between the left and right images is encoded to save bitrates. A two-branch auto
 
 Recommended citation in BibTeX format:  
 @inproceedings{deng2021deep,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Deep homography for efficient stereo image compression},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Deng, Xin and Yang, Wenzhe and Yang, Ren and Xu, Mai and Liu, Enpeng and Feng, Qianhan and Timofte, Radu},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pages={1492--1501},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}  
+&nbsp;&nbsp;&nbsp;&nbsp; title={Deep homography for efficient stereo image compression},  
+&nbsp;&nbsp;&nbsp;&nbsp; author={Deng, Xin and Yang, Wenzhe and Yang, Ren and Xu, Mai and Liu, Enpeng and Feng, Qianhan and Timofte, Radu},  
+&nbsp;&nbsp;&nbsp;&nbsp; booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
+&nbsp;&nbsp;&nbsp;&nbsp; pages={1492--1501},  
+&nbsp;&nbsp;&nbsp;&nbsp; year={2021}  
 }.
