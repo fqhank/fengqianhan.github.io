@@ -46,6 +46,13 @@ Teaching
   {% endfor %}</ul>
 -->
 
+Honors
+======
+* Special Scholarship for Postgraduate Students of Peking University 2023
+* Study Merit Scholarship of Beihang University 2020 2021
+* Subject Competition Scholarship of Beihang University 2019 2020 2021  
+* Outstanding Freshman Scholarship of Beihang University 2018
+
 Service and leadership
 ======
 * Currently serve as the Vice president of the Graduate Association of the school.
