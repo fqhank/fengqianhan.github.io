@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Qianhan Feng 冯千涵"
   avatar           : "profile.png"
-  bio              : "Master Student \n @Peking University"
-  location         : 
-  employer         :
+  bio              : "Master Student\n\
+  @Peking University"
+  location         : "Beijing, China"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HtigWVwAAAAJ&hl=zh-CN"
-  email            :
+  email            : "fengqianhan@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/fqhank"
   google_plus      :
   keybase          :
   instagram        :
