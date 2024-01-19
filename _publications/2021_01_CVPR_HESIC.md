@@ -1,5 +1,5 @@
 ---
-title: "[CVPR2021] Deep Homography for Efficient Stereo Image Compression"
+title: "[CVPR2021-Oral] Deep Homography for Efficient Stereo Image Compression"
 collection: publications
 permalink: /publication/2021_01_CVPR_HESIC
 excerpt: 'Xin Deng, Wenzhe Yang, Ren Yang, Mai Xu*, Enpeng Liu, Qianhan Feng, Radu Timofte'
@@ -7,6 +7,8 @@ date: 2021-06-21
 venue: 'Proceedings of CVPR'
 --- 
 Xin Deng, Wenzhe Yang, Ren Yang, Mai Xu*, Enpeng Liu, **Qianhan Feng**, Radu Timofte
+
+🏆 ***Accepted as an Oral paper in CVPR2021!***
 
 In this paper, we propose HESIC, an end-to-end trainable deep network for stereo image compression (SIC). To fully explore the mutual information across two stereo images,
 we use a deep regression model to estimate the homography matrix, i.e., H matrix. Then, the left image is spatially transformed by the H matrix, and only the residual information
