@@ -15,12 +15,12 @@ My research concerntrates on **Computer Vision**, **Semi-supervised Learning** a
 **I am now looking forward to an oversea Ph.d opportunity, and is expected to enroll in the fall of 2025.**
 
 ## Educational Experience
-:star:Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
-:star:Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy, Beijing, China &nbsp;&nbsp;&nbsp; 2018.9-2022.7
+:star: Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
+:star: Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy, Beijing, China &nbsp;&nbsp;&nbsp; 2018.9-2022.7
 
 ## Internship Experience
-:computer:Research Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noah's Ark Lab, Huawei &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023.6-present  
-:computer:Algorithm Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JD Group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.4-2022.6
+:computer: Research Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noah's Ark Lab, Huawei &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023.6-present  
+:computer: Algorithm Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JD Group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.4-2022.6
 
 ## Contact  
 Currently, you can contact me by sending an e-mail to my education mailbox: **fengqianhan@stu.pku.edu.cn**  
