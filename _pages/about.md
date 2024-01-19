@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Master student from [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), majoring in Machine Learning and Pattern Recognition. I received my bachelor's degree in Electronic Information Engineering from [Beihang University](https://www.buaa.edu.cn/) in 2022.  
-My research concerntrates on **Computer Vision**, **Semi-supervised Learning** and **Weakly-supervised Learning** as well as their applications on downstream tasks, and **Medical Artificial Intelligence**. I have pubilshed several papers on international academic coferences including CVPR and AAAI, which can be accessed in my [publish list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
+My research concerntrates on **Computer Vision**, **Semi-supervised Learning** and **Weakly-supervised Learning** as well as their applications on downstream tasks, and **Medical Artificial Intelligence**. I have pubilshed several papers on international academic coferences including CVPR and AAAI, which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
 **I am now looking forward to an oversea Ph.d opportunity, and is expected to enroll in the fall of 2025.**
 
 ## Educational Experience
