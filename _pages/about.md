@@ -12,7 +12,9 @@ redirect_from:
 
 🔎 My research concerntrates on **Computer Vision**, **Semi-supervised Learning** and **Weakly-supervised Learning** as well as their applications on downstream tasks, and **Medical Artificial Intelligence**. I have pubilshed several papers on international academic coferences including CVPR and AAAI, which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
 
-🙌 **I am now looking forward to an oversea Ph.d opportunity, and is expected to enroll in the fall of 2025.**
+🙌 **I am now looking forward to an oversea Ph.D opportunity, and is expected to be enrolled in the fall of 2025.**  
+📝 **What's New:   
+      I will serve as a reviewer in ACM MM24.**
 
 ## Educational Experience
 ⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
