@@ -1,9 +1,9 @@
 ---
 title: "[IJCAI2024] VCC-INFUSE: Towards Accurate and Efficient Selection of Unlabeled Examples in Semi-supervised Learning"
 collection: publications
-permalink: /publication/2024_08_IJCAI_VCC-INFUSE
+permalink: /publication/2024_08_IJCAI_VCCINFUSE
 excerpt: 'Shijie Fang†, Qianhan Feng†, Tong Lin*'
-date: 2024-08-03
+date: 2024-04-26
 venue: 'Proceedings of IJCAI'
 --- 
 Shijie Fang†, **Qianhan Feng†**, Tong Lin*
