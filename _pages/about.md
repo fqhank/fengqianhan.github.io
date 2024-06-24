@@ -15,7 +15,7 @@ redirect_from:
 🙌 **I am now looking forward to an oversea Ph.D opportunity, and is expected to be enrolled in the fall of 2025.**  
 📝 **What's New:   
       I will serve as a reviewer in ACM MM24.  
-      Our paper 'VCC-INFUSE' is accpeted by IJCAI2024!**
+      Our paper 'VCC-INFUSE' is accepted by IJCAI2024!**
 
 ## Educational Experience
 ⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
