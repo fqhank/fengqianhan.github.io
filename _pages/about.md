@@ -14,7 +14,7 @@ redirect_from:
 
 🙌 **I am now looking forward to an oversea Ph.D opportunity, and is expected to be enrolled in the fall of 2025.**  
 📝 **What's New:   
-      I Have just win the CHINA NATIONAL SCHOLARSHIP(国家奖学金)!**
+      I Have just won the CHINA NATIONAL SCHOLARSHIP(国家奖学金)!**
 
 ## Educational Experience
 ⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
