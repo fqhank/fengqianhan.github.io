@@ -22,14 +22,22 @@ redirect_from:
 🎓 Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy 北京航空航天大学, Beijing, China &nbsp;&nbsp;&nbsp; 2018.9-2022.7
 
 ## Honors and Awards  
-🏆China National Scholarship at Peking University 国家奖学金 2024.9  
-🏆Outstanding Youth League Member of Peking University 北京大学优秀团员 2024.6  
-🏆Special Scholarship for Graduate Student of Peking Univeristy 北京大学研究生专项奖学金 2023.9  
-🏆Social Work Award of Peking University 北京大学社会工作奖 2023.9  
-🏆Excellent student cadres of Shenyuan Honors College, Beihang University 北航高等理工学院优秀学生干部 2023.11  
-🏆Study Excellence Scholarship of Beihang University 北京航空航天大学学习优秀奖学金 2020/21.9  
-🏆Academic Competition Scholarship of Beihang University 北京航空航天大学学科竞赛奖学金 2019/20/21.9  
-🏆Outstanding Freshman Scholarship of Beihang University 北京航空航天大学优秀新生奖学金 2018.9  
+🏆China National Scholarship at Peking University 2024.9    
+&nbsp;&nbsp;&nbsp; 国家奖学金  
+🏆Outstanding Youth League Member of Peking University 2024.6  
+&nbsp;&nbsp;&nbsp; 北京大学优秀团员   
+🏆Special Scholarship for Graduate Student of Peking Univeristy 2023.9  
+&nbsp;&nbsp;&nbsp; 北京大学研究生专项奖学金   
+🏆Social Work Award of Peking University 2023.9   
+&nbsp;&nbsp;&nbsp; 北京大学社会工作奖  
+🏆Excellent student cadres of Shenyuan Honors College, Beihang University 2023.11   
+&nbsp;&nbsp;&nbsp; 北航高等理工学院优秀学生干部   
+🏆Study Excellence Scholarship of Beihang University 2020/21.9   
+&nbsp;&nbsp;&nbsp; 北京航空航天大学学习优秀奖学金   
+🏆Academic Competition Scholarship of Beihang University 2019/20/21.9   
+&nbsp;&nbsp;&nbsp; 北京航空航天大学学科竞赛奖学金   
+🏆Outstanding Freshman Scholarship of Beihang University 2018.9   
+&nbsp;&nbsp;&nbsp; 北京航空航天大学优秀新生奖学金   
 
 ## Internship Experience
 💻 Research Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noah's Ark Lab, Huawei &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023.6-present  
