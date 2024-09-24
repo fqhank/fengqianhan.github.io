@@ -13,9 +13,10 @@ redirect_from:
 🔎 My research concerntrates on **Computer Vision**, **Semi-supervised Learning** and **Weakly-supervised Learning** as well as their applications on downstream tasks, and **Medical Artificial Intelligence**. I have pubilshed several papers on international academic coferences including CVPR, AAAI and IJCAI, which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
 
 🙌 **I am now looking forward to an oversea Ph.D opportunity, and is expected to be enrolled in the fall of 2025.**  
+
 📝 **What's New:   
-      I Have just won the 🏆CHINA NATIONAL SCHOLARSHIP(国家奖学金)!  
-      I have retired from the position of the vice president of the student union, and become the student counselor of Ph.D student of class 2024.**
+      @ I Have Just Won the 🏆CHINA NATIONAL SCHOLARSHIP(国家奖学金)! Cheers!  
+      @ I have retired from the position of the vice president of the student union, and become the student counselor of Ph.D student of class 2024.**
 
 ## Educational Experience
 ⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University 北京大学, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
@@ -42,6 +43,14 @@ redirect_from:
 ## Internship Experience
 💻 Research Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noah's Ark Lab, Huawei &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023.6-present  
 💻 Algorithm Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JD Group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.4-2022.6
+
+## Social Services
+🙌 2024.9-Present Student Counselor, SIST School, Peking University   
+🙌 2024.4-2024.7 Reviewer of ACM MM 2024 Conference   
+🙌 2023.9-2024.8 Vice President of Graduate Student Union of SIST School, Peking University   
+🙌 2022.9-2023.8 Sports Activities Department Head, SIST School, Peking University   
+🙌 2019.11-2022.6 Organizational Committee Member of the Grade, Shenyuan College, Beihang University   
+🙌 2018.9-2019.11 Organizational Committee Member of the Class, Shenyuan College, Beihang University   
 
 ## Contact 📬 
 Currently, you can contact me by sending an e-mail to my education mailbox: **fengqianhan@stu.pku.edu.cn**  
