@@ -41,16 +41,22 @@ redirect_from:
 &nbsp;&nbsp;&nbsp; 北京航空航天大学优秀新生奖学金   
 
 ## Internship Experience
-💻 Research Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noah's Ark Lab, Huawei &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023.6-present  
-💻 Algorithm Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JD Group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.4-2022.6
+💻 Research Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noah's Ark Lab, Huawei 华为诺亚方舟实验室 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023.6-present  
+💻 Algorithm Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JD Group 京东零售搜索与推荐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.4-2022.6
 
 ## Social Services
 🙌 2024.9-Present Student Counselor, SIST School, Peking University   
+&nbsp;&nbsp;&nbsp; 北京大学智能学院博士生辅导员   
 🙌 2024.4-2024.7 Reviewer of ACM MM 2024 Conference   
+&nbsp;&nbsp;&nbsp; MM 2024 会议审稿人   
 🙌 2023.9-2024.8 Vice President of Graduate Student Union of SIST School, Peking University   
+&nbsp;&nbsp;&nbsp; 智能学院研究生会副主席   
 🙌 2022.9-2023.8 Sports Activities Department Head, SIST School, Peking University   
-🙌 2019.11-2022.6 Organizational Committee Member of the Grade, Shenyuan College, Beihang University   
-🙌 2018.9-2019.11 Organizational Committee Member of the Class, Shenyuan College, Beihang University   
+&nbsp;&nbsp;&nbsp; 智能学院研究生会体育活动组组长   
+🙌 2019.11-2022.6 Organizational Committee Member of the Grade, Shenyuan College, Beihang University  
+&nbsp;&nbsp;&nbsp; 高等理工学院18级年级组织委员   
+🙌 2018.9-2019.11 Organizational Committee Member of the Class, Shenyuan College, Beihang University  
+&nbsp;&nbsp;&nbsp; 高等理工学院班级组织委员   
 
 ## Contact 📬 
 Currently, you can contact me by sending an e-mail to my education mailbox: **fengqianhan@stu.pku.edu.cn**  
