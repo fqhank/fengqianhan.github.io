@@ -16,6 +16,7 @@ redirect_from:
 
 📝 **What's New:   
       @ I Have Just Won the 🏆CHINA NATIONAL SCHOLARSHIP(国家奖学金)! Cheers!  
+      @ I am honored with the title of 'Merit Student of Peking University 北京大学三好学生'!  
       @ I have retired from the position of the vice president of the student union, and become the student counselor of Ph.D student of class 2024.**
 
 ## Educational Experience
