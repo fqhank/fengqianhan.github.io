@@ -20,8 +20,10 @@ redirect_from:
       @ I have retired from the position of the vice president of the student union, and become the student counselor of Ph.D student of class 2024.**
 
 ## Educational Experience
-⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University 北京大学, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
-🎓 Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy 北京航空航天大学, Beijing, China &nbsp;&nbsp;&nbsp; 2018.9-2022.7
+⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
+&nbsp;&nbsp;&nbsp; 计算机科学与技术（智能科学与技术）硕士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 北京大学  
+🎓 Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy, Beijing, China &nbsp;&nbsp;&nbsp; 2018.9-2022.7  
+&nbsp;&nbsp;&nbsp; 电子信息工程 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士/沈元荣誉学士学位 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京航空航天大学
 
 ## Honors and Awards  
 🏆China National Scholarship at Peking University 2024.9    
