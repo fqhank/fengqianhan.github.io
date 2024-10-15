@@ -27,7 +27,9 @@ redirect_from:
 
 ## Honors and Awards  
 🏆China National Scholarship at Peking University 2024.9    
-&nbsp;&nbsp;&nbsp; 国家奖学金  
+&nbsp;&nbsp;&nbsp; 国家奖学金   
+🏆Merit Student of Peking University 2024.9    
+&nbsp;&nbsp;&nbsp; 北京大学三好学生  
 🏆Outstanding Youth League Member of Peking University 2024.6  
 &nbsp;&nbsp;&nbsp; 北京大学优秀团员   
 🏆Special Scholarship for Graduate Student of Peking Univeristy 2023.9  
