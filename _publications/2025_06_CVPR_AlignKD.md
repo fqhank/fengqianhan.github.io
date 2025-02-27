@@ -1,5 +1,5 @@
 ---
-title: "[CVPR2025] Deep Homography for Efficient Stereo Image Compression"
+title: "[CVPR2025] Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model"
 collection: publications
 permalink: /publication/2025_06_CVPR_AlignKD
 excerpt: 'Qianhan Feng, Wenshuo Li, Tong Lin, Xinghao Chen*'
