@@ -12,12 +12,11 @@ redirect_from:
 
 🔎 My research concerntrates on **Computer Vision**, **Semi-supervised Learning** and **Weakly-supervised Learning** as well as their applications on downstream tasks, and **Medical Artificial Intelligence**. I have pubilshed several papers on international academic coferences including CVPR, AAAI and IJCAI, which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
 
-🙌 **I will join Prof.Dou Qi's group in CUHK in 2025.**
+🙌 **I will join Prof.Dou Qi's group in CUHK in 2025.**  
 🙌 **It is my pleasure to support any student who want to inquire about the enrollment and application to the Gruaduate Programme of PKU, feel free to contact me. 我很荣幸能为想要保研的同学提供信息帮助与交流，欢迎邮件联系我，祝大家保研顺利！**
 
 📝 **What's New:    
-      @ My paper 'Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model' has been accepted by CVPR 2025! We are there! 
-      @ I am also honored with the title of 'Merit Student of Beijing 北京市三好学生'**
+      @ ⭐My paper 'Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model' has been accepted by CVPR 2025! We are there!**
 
 ## Educational Experience
 ⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
