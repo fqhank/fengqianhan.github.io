@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beihang University, China 2012
+* B.S. in Beihang University, China 2022
 * M.S. in Peking University, China 2025(expected)
 
 Internship experience
