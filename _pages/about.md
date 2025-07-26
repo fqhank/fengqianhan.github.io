@@ -8,21 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-👀 I am currently a Master student from [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), majoring in Machine Learning and Pattern Recognition. I received my bachelor's degree in Electronic Information Engineering from [Beihang University](https://www.buaa.edu.cn/) in 2022.  
+👀 I am currently a PhD student from CUHK, majoring in Computer Science and Engineering and Medical Intelligence, under the supervise of Professor Qi Dou. I received my master degree in Computer Science and Technology from Peking University in 2025, and my bachelor degree in Electronic Information Engineering from Beihang University in 2022.  
 
-🔎 My research concerntrates on **Computer Vision**, **Semi-supervised Learning** and **Weakly-supervised Learning** as well as their applications on downstream tasks, and **Medical Artificial Intelligence**. I have pubilshed several papers on international academic coferences including CVPR, AAAI and IJCAI, which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
+🔎 My research concerntrates on **Medical Intelligence (just starting), Multimodal Learning, Vision-Language Large Model and Efficient Learning**. I have pubilshed several papers on international academic coferences including CVPR, AAAI and IJCAI, and transactions including IEEE TCSVT, which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
 
-🙌 **I will join Prof.Dou Qi's group in CUHK in 2025.**  
-🙌 **It is my pleasure to support any student who want to inquire about the enrollment and application to the Gruaduate Programme of PKU, feel free to contact me. 我很荣幸能为想要保研的同学提供信息帮助与交流，欢迎邮件联系我，祝大家保研顺利！**
 
-📝 **What's New:    
-      @ ⭐My paper 'Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model' has been accepted by CVPR 2025! We are there!**
+📝 **What's New:  
+      @ ⭐ 2025/7/1 I am honored with the title 'Outstanding Graduate of Beijing' and 'Outstanding Graduate of Peking University' of Class 2025! 
+      @ ⭐ 2025/6/4 My paper 'Full-Stage Pseudo Label Quality Enhancement for Weakly-supervised Temporal Action Localization' has been accepted by IEEE TCSVT! My first publication on Transactions.  
+      @ ⭐ 2025/2/28 My paper 'Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model' has been accepted by CVPR 2025! We are there!
+      @ noted that some datasets used in Align-KD is no more accessible, which has been warned in our paper. Please contact the author of the datasets instead of us for help in this case.**
 
 ## Educational Experience
-⭐ Msc Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University, Beijing, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-present  
-&nbsp;&nbsp;&nbsp; 计算机科学与技术（智能科学与技术）硕士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 北京大学  
-🎓 Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy, Beijing, China &nbsp;&nbsp;&nbsp; 2018.9-2022.7  
-&nbsp;&nbsp;&nbsp; 电子信息工程 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士/沈元荣誉学士学位 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京航空航天大学
+ @  PhD Student &nbsp;&nbsp;&nbsp;&nbsp; Chinese University of Hong Kong &nbsp; 2025.8-present  
+&nbsp;&nbsp;&nbsp; 计算机科学与工程 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 博士生 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 香港中文大学  
+🎓 Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-2025.7  
+&nbsp;&nbsp;&nbsp; 计算机科学与技术 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 硕士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 北京大学  
+🎓 Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018.9-2022.7  
+&nbsp;&nbsp;&nbsp; 电子信息工程 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士/沈元荣誉学士学位 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京航空航天大学
 
 ## Honors and Awards  
 ⭐**China National Scholarship at Peking University 2024.9    
@@ -31,6 +34,10 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp; 北京市三好学生**  
 ⭐**Merit Student Pacemaker of Peking University 2024.9    
 &nbsp;&nbsp;&nbsp;&nbsp; 北京大学三好学生标兵**  
+⭐**Outstanding Graduate of Beijing 2025.7    
+&nbsp;&nbsp;&nbsp;&nbsp; 北京市优秀毕业生**  
+⭐**Outstanding Graduate of Peking University 2025.7    
+&nbsp;&nbsp;&nbsp;&nbsp; 北京大学优秀毕业生**  
 🏆Excellent grass-roots organizations in Beijing (as a member of the dormitory) 2024.10    
 &nbsp;&nbsp;&nbsp;&nbsp; 北京市优秀基层组织（以宿舍为单位）  
 🏆Outstanding Student Dormitory of Peking University (as a member of the dormitory) 2024.10    
@@ -69,5 +76,5 @@ redirect_from:
 &nbsp;&nbsp;&nbsp; 高等理工学院班级组织委员   
 
 ## Contact 📬 
-Currently, you can contact me by sending an e-mail to my education mailbox: **fengqianhan@stu.pku.edu.cn**  
-I also have a gmail address for business and academic affairs, which is also recommended: **fqhank@gmail.com**
+Currently, the education mailbox **fengqianhan@stu.pku.edu.cn** is no more used.  
+I have a gmail address for business and academic affairs, which is recommended temporarily: **fqhank@gmail.com**
