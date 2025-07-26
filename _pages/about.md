@@ -14,9 +14,9 @@ redirect_from:
 
 
 📝 **What's New:  
-      @ ⭐ 2025/7/1 I am honored with the title 'Outstanding Graduate of Beijing' and 'Outstanding Graduate of Peking University' of Class 2025! 
+      @ ⭐ 2025/7/1 I am honored with the title 'Outstanding Graduate of Beijing' and 'Outstanding Graduate of Peking University' of Class 2025!  
       @ ⭐ 2025/6/4 My paper 'Full-Stage Pseudo Label Quality Enhancement for Weakly-supervised Temporal Action Localization' has been accepted by IEEE TCSVT! My first publication on Transactions.  
-      @ ⭐ 2025/2/28 My paper 'Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model' has been accepted by CVPR 2025! We are there!
+      @ ⭐ 2025/2/28 My paper 'Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model' has been accepted by CVPR 2025! We are there!  
       @ noted that some datasets used in Align-KD is no more accessible, which has been warned in our paper. Please contact the author of the datasets instead of us for help in this case.**
 
 ## Educational Experience
