@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-👀 I am currently a PhD student from CUHK, majoring in Computer Science and Engineering and Medical Intelligence, under the supervise of Professor Qi Dou. I received my master degree in Computer Science and Technology from Peking University in 2025, and my bachelor degree in Electronic Information Engineering from Beihang University in 2022.  
+👀 I am a PhD student from CUHK, majoring in Computer Science and Engineering and Medical Intelligence, under the supervise of Professor Qi Dou. I received my master degree in Computer Science and Technology from Peking University in 2025, and my bachelor degree in Electronic Information Engineering from Beihang University in 2022.  
 
-🔎 My research concerntrates on **Medical Intelligence (just starting), Multimodal Learning, Vision-Language Large Model and Efficient Learning**. I have pubilshed several papers on international academic coferences including CVPR, AAAI and IJCAI, and transactions including IEEE TCSVT, which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
+🔎 My research focuses on **Medical Intelligence (starting), Multimodal Learning, Vision-Language Large Model and Efficient Learning**. I have pubilshed several papers on international academic coferences including CVPR, AAAI and IJCAI, and transactions including IEEE TCSVT, all of which can be accessed in my [publication list](https://fqhank.github.io/fengqianhan.github.io//publications/).  
 
 
 📝 **What's New:  
       @ ⭐ 2025/7/1 I am honored with the title 'Outstanding Graduate of Beijing' and 'Outstanding Graduate of Peking University' of Class 2025!  
       @ ⭐ 2025/6/4 My paper 'Full-Stage Pseudo Label Quality Enhancement for Weakly-supervised Temporal Action Localization' has been accepted by IEEE TCSVT! My first publication on Transactions.  
       @ ⭐ 2025/2/28 My paper 'Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model' has been accepted by CVPR 2025! We are there!  
-      @ noted that some datasets used in Align-KD is no more accessible, which has been warned in our paper. Please contact the author of the datasets instead of us for help in this case.**
+      @ ⚠️ Noted that some datasets used in Align-KD is no more accessible, which has been warned in our paper. Please contact the author of the datasets instead of us for help in this case.**
 
 ## Educational Experience
- @  PhD Student &nbsp;&nbsp;&nbsp;&nbsp; Chinese University of Hong Kong &nbsp; 2025.8-present  
-&nbsp;&nbsp;&nbsp; 计算机科学与工程 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 博士生 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 香港中文大学  
+ @  PhD Student &nbsp;&nbsp;&nbsp;&nbsp; Chinese University of Hong Kong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025.8-present  
+&nbsp;&nbsp;&nbsp; 计算机科学与工程 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 博士生 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 香港中文大学  
 🎓 Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.9-2025.7  
-&nbsp;&nbsp;&nbsp; 计算机科学与技术 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 硕士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 北京大学  
+&nbsp;&nbsp;&nbsp; 计算机科学与技术 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 硕士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 北京大学  
 🎓 Bachelor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beihang Univeristy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018.9-2022.7  
 &nbsp;&nbsp;&nbsp; 电子信息工程 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士/沈元荣誉学士学位 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京航空航天大学
 
