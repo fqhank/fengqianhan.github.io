@@ -24,28 +24,28 @@ My research centers on **Medical Intelligence (Computer-aided Diagnosis), Vision
 
 ## 🎓 Educational Background
 
-**PhD Candidate** | *Computer Science and Engineering*  
-The Chinese University of Hong Kong | Aug 2025 – Present  
-博士生 | 计算机科学与工程 | 香港中文大学
+**PhD student** \| *Computer Science and Engineering*  
+The Chinese University of Hong Kong \| Aug 2025 – Present  
+博士生 \| 计算机科学与工程 \| 香港中文大学
 
-**Master's Degree** | *Computer Science and Technology*  
-Peking University | Sep 2022 – Jul 2025  
-硕士 | 计算机科学与技术 | 北京大学
+**Master's Degree** \| *Computer Science and Technology*  
+Peking University \| Sep 2022 – Jul 2025  
+硕士 \| 计算机科学与技术 \| 北京大学
 
-**Bachelor's Degree** | *Electronic Information Engineering*  
-Beihang University | Sep 2018 – Jul 2022  
-学士/沈元荣誉学士 | 电子信息工程 | 北京航空航天大学
+**Bachelor's Degree** \| *Electronic Information Engineering*  
+Beihang University \| Sep 2018 – Jul 2022  
+学士/沈元荣誉学士 \| 电子信息工程 \| 北京航空航天大学
 
 ---
 
 ## 🏆 Honors & Awards
 
 ### National & University-Level Recognition
-- **Outstanding Graduate of Beijing** (2025) | 北京市优秀毕业生
-- **Outstanding Graduate of Peking University** (2025) | 北京大学优秀毕业生
-- **China National Scholarship** (2024) | 国家奖学金
-- **Merit Student Pacemaker of Peking University** (2024) | 北京大学三好学生标兵
-- **Merit Student of Beijing** (2024) | 北京市三好学生
+- **Outstanding Graduate of Beijing** (2025) \| 北京市优秀毕业生
+- **Outstanding Graduate of Peking University** (2025) \| 北京大学优秀毕业生
+- **China National Scholarship** (2024) \| 国家奖学金
+- **Merit Student Pacemaker of Peking University** (2024) \| 北京大学三好学生标兵
+- **Merit Student of Beijing** (2024) \| 北京市三好学生
 
 ### Academic & Leadership Awards
 - **Special Scholarship for Graduate Students**, Peking University (2023)
@@ -60,11 +60,11 @@ Beihang University | Sep 2018 – Jul 2022
 ## 💼 Professional Experience
 
 **Research Intern**  
-*Noah's Ark Lab* | Jun 2023 – Feb 2025  
+*Noah's Ark Lab* \| Jun 2023 – Feb 2025  
 Conducted research on vision-language models and efficient learning techniques. Research results are published in open-accessed papers.
 
 **Algorithm Intern**  
-*JD Group - Search & Recommendation Team* | Apr 2022 – Jun 2022  
+*JD Group - Search & Recommendation Team* \| Apr 2022 – Jun 2022  
 Developed and optimized recommendation algorithms for e-commerce platforms.
 
 ---
@@ -72,13 +72,13 @@ Developed and optimized recommendation algorithms for e-commerce platforms.
 ## 🤝 Service
 
 **Student Counselor**  
-*SIST School, Peking University* | Sep 2024 – Jul 2025  
+*SIST School, Peking University* \| Sep 2024 – Jul 2025  
 Mentoring and supporting graduate students in academic and personal development.
 
 **Reviewer**  
-*AAAI 2025 Conference* | Jul 2025 – Oct 2025  
-*ACM MM 2024 Conference* | Apr 2024 – Jul 2024  
+*AAAI 2025 Conference* \| Jul 2025 – Oct 2025  
+*ACM MM 2024 Conference* \| Apr 2024 – Jul 2024  
 
 **Vice President**  
-*Graduate Student Union, SIST School, Peking University* | Sep 2023 – Aug 2024  
+*Graduate Student Union, SIST School, Peking University* \| Sep 2023 – Aug 2024  
 Led student initiatives and organized academic and social events. 
