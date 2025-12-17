@@ -1,5 +1,5 @@
 ---
-title: "[pre-print] Deep Homography for Efficient Stereo Image Compression"
+title: "[pre-print] UCAgents: Unidirectional Convergence for Visual Evidence Anchored Multi-Agent Medical Decision-Making"
 collection: publications
 permalink: /publication/2025_11_arxiv_ucagents
 excerpt: 'Qianhan Feng, Zhongzhen Huang, Yakun Zhu, Xiaofan Zhang, Qi Dou'
