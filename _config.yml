@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Qianhan Feng"
 title_separator          : "-"
 name                     : &name "Qianhan Feng"
-description              : &description "personal description"
-url                      : https://fqhank.github.io/fengqianhan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Qianhan Feng (冯千涵), PhD student in Medical AI and Agentic AI at The Chinese University of Hong Kong."
+url                      : https://fqhank.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fqhank/fengqianhan.github.io"
+repository               : "fqhank/fqhank.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -66,9 +66,11 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Qianhan Feng
+  links:
+    - "https://scholar.google.com/citations?user=HtigWVwAAAAJ&hl=en"
+    - "https://github.com/fqhank"
 
 
 # Analytics
@@ -86,7 +88,7 @@ author:
   location         : "Hong Kong, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=HtigWVwAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=HtigWVwAAAAJ&hl=en"
   email            : "fqhank@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -267,7 +269,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
